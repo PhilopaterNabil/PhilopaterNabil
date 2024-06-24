@@ -38,3 +38,5 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=philopaternabil&show_icons=true&locale=en" alt="philopaternabil" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=philopaternabil&show_icons=true&locale=en&layout=compact" alt="philopaternabil" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philopaternabil" alt="philopaternabil" /></a> </p>
