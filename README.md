@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **philopater.nabil.0@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/philopater-nabil-62800825a_philopater-nabil-flutter-developercv-activity-7204512372474974210-R5g3?utm_source=share&utm_medium=member_desktop](https://www.linkedin.com/posts/philopater-nabil-62800825a_philopater-nabil-flutter-developercv-activity-7204512372474974210-R5g3?utm_source=share&utm_medium=member_desktop)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hZhLtR7uhkc6Rtm6gUnkFiHHJeDCvRxB/view?usp=drive_link)
 
 - ⚡ Fun fact **always learning**
 
