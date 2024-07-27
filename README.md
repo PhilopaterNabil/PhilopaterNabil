@@ -5,11 +5,11 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility:visible;max-width:100%;">
 
-- 🔭 I’m currently working on [Personal Expense Tracker](https://github.com/PhilopaterNabil/CODSOFT/tree/main/expense_tracker)
+- 🔭 I’m currently working on [News App (BBS)](https://github.com/PhilopaterNabil/News-App_Ninja-Team)
 
 - 🌱 I’m currently learning **Flutter Development**
 
-- 👯 I’m looking to collaborate on [Rick and Morty Characters](https://github.com/PhilopaterNabil/Rick_and_Morty_Characters-App)
+- 👯 I’m looking to collaborate on [To Do App](https://github.com/PhilopaterNabil/CODSOFT/tree/main/To-Do%20List%20App)
 
 - 💬 Ask me about **anything**
 
