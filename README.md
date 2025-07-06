@@ -1,25 +1,25 @@
 <h1 align="center">Hi 👋, I'm Philopater</h1>
-<h3 align="center">Mobile App Developer specializing in Flutter Development from Egypt</h3>
+<h3 align="center">👨‍💻 Flutter Developer from Egypt 🇪🇬 | 📱 I build mobile apps using Flutter | 🚀 Always learning and improving</h3>
+
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philopaternabil&label=Profile%20views&color=0e75b6&style=flat" alt="philopaternabil" /> </p>
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/raw/main/Images/Right_Side.gif?raw=true" width="250px" style="visibility:visible;max-width:100%;">
 
-- 🔭 I’m currently working on [News App (BBS)](https://github.com/PhilopaterNabil/News-App_Ninja-Team)
+### 🚀 About Me
 
-- 🌱 I’m currently learning **Flutter Development**
-
-- 👯 I’m looking to collaborate on [To Do App](https://github.com/PhilopaterNabil/CODSOFT/tree/main/To-Do%20List%20App)
+- <p dir="auto">🌱 I’m currently learning <strong>FLUTTER Development</strong></p>
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **philopater.nabil.0@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1hZhLtR7uhkc6Rtm6gUnkFiHHJeDCvRxB/view?usp=drive_link)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1hZhLtR7uhkc6Rtm6gUnkFiHHJeDCvRxB/view?usp=drive_link)
 
-- ⚡ Fun fact **always learning**
+- ⚡ Fun fact: **Always learning and growing**
 
-- 🐼 Doing my best
+- 🐼 **Doing my best, every day!**
 <br>
 
 <div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📩 Connect with me</h2><a id="user-content--connect-with-me" class="anchor" aria-label="Permalink: 📩 Connect with me" href="#-connect-with-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
